@@ -78,9 +78,11 @@ This analysis aims to answer questions such as:
 
 **For the actual charts, findings, and conclusions, refer to the project notebook.**
 
+## 🚀 Run the Notebook on Google Colab
 
+Explore the complete Python code and execute the analysis interactively in Google Colab.
 
-> **Note:** These links assume the uploaded notebook is named `Amazon_Prime_Video_EDA.ipynb` and is located in the repository's root directory on the `main` branch. Update the filename or branch in both links if needed.
+[**📊 Open Amazon Prime Video EDA Notebook in Google Colab**](https://drive.google.com/file/d/1XfZYI6c4YgaphB8XZX8MIft9mvpJ6qai/view?usp=sharing)
 
 ## 🚀 How to Run the Project
 
