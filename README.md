@@ -78,10 +78,7 @@ This analysis aims to answer questions such as:
 
 **For the actual charts, findings, and conclusions, refer to the project notebook.**
 
-## 📓 Explore the EDA Notebook
 
-- **[View the EDA Notebook on GitHub](./Amazon_Prime_Video_EDA.ipynb)**
-- **[Open the Notebook in Google Colab](https://colab.research.google.com/github/mohammedshoaib3146-collab/EDA-project-on-Amazon-Prime-Video/blob/main/Amazon_Prime_Video_EDA.ipynb)**
 
 > **Note:** These links assume the uploaded notebook is named `Amazon_Prime_Video_EDA.ipynb` and is located in the repository's root directory on the `main` branch. Update the filename or branch in both links if needed.
 
