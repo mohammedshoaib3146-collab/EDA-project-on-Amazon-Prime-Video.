@@ -145,7 +145,7 @@ EDA-project-on-Amazon-Prime-Video/
 BCA Graduate | Aspiring Data Analyst
 
 - **GitHub:** [mohammedshoaib3146-collab](https://github.com/mohammedshoaib3146-collab)
-- **Project Repository:** [Amazon Prime Video EDA](https://github.com/mohammedshoaib3146-collab/EDA-project-on-Amazon-Prime-Video)
+- **Project Repository:** [Amazon Prime Video EDA](https://github.com/mohammedshoaib3146-collab/EDA-project-on-Amazon-Prime-Video..git)
 
 ---
 
